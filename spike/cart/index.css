@@ -1,0 +1,19 @@
+@media (max-width: 768px) {
+  .hero-size {
+    height: 100px;
+  }
+}
+
+@media (min-width: 768px) {
+  .hero-size {
+    height: 200px;
+  }
+}
+
+.last_list_item {
+  border-bottom: 1px solid black;
+}
+
+.total {
+  border-bottom: 1px solid white;
+}

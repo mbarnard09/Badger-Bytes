@@ -1,0 +1,43 @@
+/*
+ * Colors taken from: https://brand.wisc.edu/web/colors/
+ */
+
+/* UW-Madison Red */
+.color-uw-red-text {
+  color: #c5050c;
+}
+.color-uw-red-background {
+  background-color: #c5050c;
+}
+
+/* UW-Madison Dark Red */
+.color-uw-red-dark-text {
+  color: #9b0000;
+}
+.color-uw-red-dark-background {
+  background-color: #9b0000;
+}
+
+/* UW-Madison Gray Blue */
+.color-uw-gray-blue-text {
+  color: #dadfe1;
+}
+.color-uw-gray-blue-background {
+  background-color: #dadfe1;
+}
+
+/* UW-Madison Gray Darker */
+.color-uw-gray-darker-text {
+  color: #646569;
+}
+.color-uw-gray-darker-background {
+  background-color: #646569;
+}
+
+/* UW-Madison Gray Darkest */
+.color-uw-gray-darkest-text {
+  color: #282728;
+}
+.color-uw-gray-darkest-background {
+  background-color: #282728;
+}
